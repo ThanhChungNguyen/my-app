@@ -1,0 +1,11 @@
+.div5 {
+    color: brown;
+}
+
+div {
+    width: 900px;
+    height: auto;
+    border: solid;
+    margin: 25px;
+    padding: 25px;
+}

@@ -1,0 +1,23 @@
+.div4 {
+    color: red;
+}
+
+.div1:hover .div3 {
+    color: white;
+}
+/* .div1:hover .div4 {
+    color: blue;
+} */
+
+
+.div1:hover .div5 {
+    color: yellow;
+}
+
+div {
+    width: 200px;
+    height: auto;
+    border: solid;
+    margin: 5px;
+    padding: 5px;
+}
