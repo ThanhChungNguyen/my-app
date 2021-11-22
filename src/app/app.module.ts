@@ -8,6 +8,7 @@ import { InsideCssCompComponent } from './inside-css-comp/inside-css-comp.compon
 import { ScrollComponentComponent } from './scroll-component/scroll-component.component';
 import { ListStyleTypeComponent } from './list-style-type/list-style-type.component';
 import { ZIndexComponent } from './z-index/z-index.component';
+import { BadgeDivComponent } from './badge-div/badge-div.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { ZIndexComponent } from './z-index/z-index.component';
     InsideCssCompComponent,
     ScrollComponentComponent,
     ListStyleTypeComponent,
-    ZIndexComponent
+    ZIndexComponent,
+    BadgeDivComponent
   ],
   imports: [
     BrowserModule
